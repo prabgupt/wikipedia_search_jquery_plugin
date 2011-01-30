@@ -1,0 +1,35 @@
+.popUp{
+  position: absolute;
+  /*top: 10px;*/
+  /*left: 10px;*/
+  z-index: 2;
+  width: 500px;
+  height: auto;
+  background-color: #dcdcdc;
+  border-left: 1px #8a8a8a solid;
+  border-top: 1px #8a8a8a solid;
+  border-right: 1px #a6a6a6 solid;
+  border-bottom: 1px #a6a6a6 solid;
+}
+
+.popUpHeader{
+  margin: 0;
+  padding: 3px;
+  border-bottom: 1px #8a8a8a solid;
+  background-color: #c73734;
+  color: #fff;
+  font-weight: bold;
+}
+      
+.popUpContent{
+  background-color: #f9f9f9;
+  margin-top: 25px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  border-left: 1px #bcbcbc solid;
+  border-top: 1px #bcbcbc solid;
+  border-right: 1px #fff solid;
+  border-bottom: 1px #fff solid;
+}

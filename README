@@ -1,0 +1,10 @@
+Purpose
+-------------
+This plugin will enable your website to display wiki summary about the any text when clicked upon, in an inline popup appearing on the same page. Furthermore all the internal links inside that would open in the same popup box and hence keeping user on your site only.
+
+How to Use
+---------------
+
+1. Copy css and js files to your application public library
+2. Assign class 'wikiItem' to text about which you want to display information from wikipedia 
+	Eg: To display info about Golygon<a href="#" class="wikiItem">Golygon</a>

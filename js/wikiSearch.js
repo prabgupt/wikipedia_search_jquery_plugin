@@ -3,8 +3,7 @@
 Copyright (c) 2011 Prabhat Gupta(prabhatgupta.webs.com | golygon.com)
 
 This script may be used for non-commercial purposes only. For any
-commercial purposes, please contact the author at 
-itisme.prabhat@gmail.com
+commercial purposes, please contact the author at prabhat@golygon.com
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
